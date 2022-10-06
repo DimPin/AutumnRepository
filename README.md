@@ -1,3 +1,5 @@
 # Our Autumn Remote Repository
 
-Изменение, выполненые в VSCode
+Изменения, выполненые в VSCode
+
+Изменения, выполненые в GitHub
